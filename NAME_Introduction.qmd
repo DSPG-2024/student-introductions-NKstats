@@ -55,8 +55,8 @@ It's also important that you develop some personal learning objectives for your 
 
 ### What I hope to learn in DSPG
 
-- **Effective Communication**: To better present data-driven insights to non-technical stakeholders.
-- **Big Data Handling**: As data scales, I want to be adept at managing and extracting value from vast datasets.
+- Effective Communication: To better present data-driven insights to non-technical stakeholders.
+- Big Data Handling: As data scales, I want to be adept at managing and extracting value from vast datasets.
 
 ## Before Submitting Your Assignment
 

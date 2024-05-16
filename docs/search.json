@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "Readme.html",
+    "href": "Readme.html",
+    "title": "SE_DSPG24_Blog",
+    "section": "",
+    "text": "## Assignment Objectives For your first submission, you are asked to submit an introductory blog of yourself to present to your fellow DSPG members. Note that these blogs will be hosted on the DSPG 2024 webpage for public viewing so that anyone interested in the program (future participants, clients, recruiters) may also learn about you. The objective is to use these blogs as a way to demonstrate your learning and work progress by documenting your accomplishments throughout the program."
+  },
+  {
+    "objectID": "Readme.html#what-to-include-in-this-blog",
+    "href": "Readme.html#what-to-include-in-this-blog",
+    "title": "SE_DSPG24_Blog",
+    "section": "What to Include in This Blog",
+    "text": "What to Include in This Blog\nAs you prepare your introductions please make sure to include the following information about yourself. Feel free to add any pictures and links you think would make the blogs more presentable.\n\nWhere are you from?\nWhat’s your current academic year?\nWhat degrees are you studying? Why did you choose your degrees?\nWhat are your plans with your degree(s)?\nWhy do you care about data science?\nDo you have any prior experience with data science?\nWhat kinds of extracurricular activities / hobbies do you care about?\nShare an interesting fact/story about yourself. What do you want your peers to know about you?\n\nIt’s also important that you develop some personal learning objectives for your time in DSPG. The following questions below are designed to help you develop some. After thinking through them, include your answers within the blog so that we can revisit these at the end of the program.\n\nWhat skills do you value and appreciate about yourself?\nList some skills in data science that you feel you do well.\nList at least three skills you would like to learn or develop during the DSPG program.\nWhy are you pursuing these skills? Why do they matter to you?\nHow do you hope to improve these skills?"
+  },
+  {
+    "objectID": "Readme.html#before-submitting-your-assignment",
+    "href": "Readme.html#before-submitting-your-assignment",
+    "title": "SE_DSPG24_Blog",
+    "section": "Before Submitting Your Assignment",
+    "text": "Before Submitting Your Assignment\n\nPlease update everything except the categories: [Introduction] in the YAML metadata section of your NAME_Introductions.qmd file.\nReplace the NAME section of the NAME_Introductions.qmd file with your first name.\nIf you are including any images, place them in the imgs\\ folder and follow the guidelines discussed in the Blog Writing Guidelines post for adding images.\nRender the blog post locally on your device to make sure that it can render correctly."
+  },
+  {
+    "objectID": "NAME_Introduction.html#assignment-objectives",
+    "href": "NAME_Introduction.html#assignment-objectives",
+    "title": "SOLOMON’s Introduction",
+    "section": "Assignment Objectives",
+    "text": "Assignment Objectives\nFor your first submission, you are asked to submit an introductory blog of yourself to present to your fellow DSPG members. Note that these blogs will be hosted on the DSPG 2024 webpage for public viewing so that anyone interested in the program (future participants, clients, recruiters) may also learn about you. The objective is to use these blogs as a way to demonstrate your learning and work progress by documenting your accomplishments throughout the program."
+  },
+  {
+    "objectID": "NAME_Introduction.html#what-to-include-in-this-blog",
+    "href": "NAME_Introduction.html#what-to-include-in-this-blog",
+    "title": "SOLOMON’s Introduction",
+    "section": "What to Include in This Blog",
+    "text": "What to Include in This Blog\nAs you prepare your introductions please make sure to include the following information about yourself. Feel free to add any pictures and links you think would make the blogs more presentable.\n\nWhere are you from?\nWhat’s your current academic year?\nWhat degrees are you studying? Why did you choose your degrees?\nWhat are your plans with your degree(s)?\nWhy do you care about data science?\nDo you have any prior experience with data science?\nWhat kinds of extracurricular activities / hobbies do you care about?\nShare an interesting fact/story about yourself. What do you want your peers to know about you?\n\nIt’s also important that you develop some personal learning objectives for your time in DSPG. The following questions below are designed to help you develop some. After thinking through them, include your answers within the blog so that we can revisit these at the end of the program.\n\nWhat skills do you value and appreciate about yourself?\nList some skills in data science that you feel you do well.\nList at least three skills you would like to learn or develop during the DSPG program.\nWhy are you pursuing these skills? Why do they matter to you?\nHow do you hope to improve these skills?\n\n\nWhat I hope to learn in DSPG\n\nEffective Communication: To better present data-driven insights to non-technical stakeholders.\nBig Data Handling: As data scales, I want to be adept at managing and extracting value from vast datasets."
+  },
+  {
+    "objectID": "NAME_Introduction.html#before-submitting-your-assignment",
+    "href": "NAME_Introduction.html#before-submitting-your-assignment",
+    "title": "SOLOMON’s Introduction",
+    "section": "Before Submitting Your Assignment",
+    "text": "Before Submitting Your Assignment\n\nPlease update everything except the categories: [Introduction] in the YAML metadata section of your NAME_Introductions.qmd file.\nReplace the NAME section of the NAME_Introductions.qmd file with your first name.\nIf you are including any images, place them in the imgs\\ folder and follow the guidelines discussed in the Blog Writing Guidelines post for adding images.\nRender the blog post locally on your device to make sure that it can render correctly. If you are in RStudio, you can use the Render icon or hit Ctrl+Shift+K on Windows and Shift-Command-K on Mac."
+  }
+]
