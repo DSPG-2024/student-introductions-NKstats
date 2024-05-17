@@ -59,7 +59,7 @@ I remember the moment I became interested in advanced research in Data Science. 
 
 However, amidst this revelation, a significant issue surfaced - the absence of reliable data for marginalized populations, resulting in disproportionately worse health outcomes. Since then, my focus evolved from merely using models to make predictions to understanding the "why" and "what-if" behind those predictions. I realized that relying solely on supervised models was insufficient for this purpose, prompting me to develop methods that could integrate machine learning and causal approaches to address and explain predictions in imbalanced datasets.
 
-![](imgs/whatif.png) [Figure Reference (Causality for Machine Learning)](https://ff13.fastforwardlabs.com/) 
+![[Figure Reference (Causality for Machine Learning)](https://ff13.fastforwardlabs.com/)](imgs/whatif.png)  
 
 As a consequence, I aim to leverage machine learning with causal methods to understand the influence of policies and interventions on diseases outcomes across various data sources. I seek to move from prediction-based models to learning independent causal models in areas like transfer and meta-learning. This approach will aid in integrating diverse healthcare datasets, often compounded by heterogeneous patient characteristics and medical protocols, ensuring the generalizability of my findings against external datasets. Additionally, I aim to create models capable of scaling up datasets to better reflect the diversity of the population. My goal is to enhance model interpretability through counterfactual reasoning and mitigate algorithmic biases for fair and equitable outcomes, ensuring the reliability of healthcare research across different demographics.
 
