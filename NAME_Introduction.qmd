@@ -20,22 +20,7 @@ categories: [Introduction]
 
 <br>
 
-I’m currently a PhD student in Applied Math at Iowa State University. I hold a Bachelor’s degree in Mathematics from the University of Mines & Technology, Ghana, and a masters degree in Applied Statistics and Data Science from the University of Texas Rio Grande Valley (UTRGV). I am passionate about methodological and theoretical research in causal inference, with a specific focus on its applications in the field of infectious diseases and data science. My interest extends to exploring how causal analysis techniques can enhance the understanding of disease transmission dynamics and the effectiveness of public health policies and interventions. Additionally, I am keen on developing and applying advanced data science methods to improve disease surveillance and control strategies.
-
-
-### Research Interests
-
-- Causal Inference
-- Infectious Disease
-- Data Science
-
-
-### Education
-
-
-- PhD Applied Mathematics, Iowa State University (08/2023 - Present)
-- MSc Applied Statistics & Data Science, University of TX Rio Grande Valley (08/2021 - 05/2023)
-- BSc Mathematics, University of Mines & Technology, Tarkwa, Ghana (09/2016 - 08/2020)
+Hi! My name is Solomon Eshun. You can call me Solomon (he/his). As of Spring 2024, I’m pursuing a PhD in Applied Mathematics at Iowa State University. I hold a Bachelor’s degree in Mathematics from the University of Mines & Technology, Ghana, and a masters degree in Applied Statistics and Data Science from the University of Texas Rio Grande Valley (UTRGV). I am passionate about methodological and theoretical research in causal inference, with a specific focus on its applications in infectious diseases. My interest extends to exploring how causal techniques can improve the understanding of disease transmission dynamics and the effectiveness of public health policies and interventions. Additionally, I am keen on developing and applying data science methods to improve disease surveillance and control strategies.
 
 
 
@@ -50,32 +35,6 @@ As a consequence, I aim to leverage machine learning with causal methods to unde
 
 
 
-## Assignment Objectives
-
-For your first submission, you are asked to submit an introductory blog of yourself to present to your fellow DSPG members. Note that these blogs will be hosted on the DSPG 2024 webpage for public viewing so that anyone interested in the program (future participants, clients, recruiters) may also learn about you. The objective is to use these blogs as a way to demonstrate your learning and work progress by documenting your accomplishments throughout the program.
-
-## What to Include in This Blog
-
-As you prepare your introductions please make sure to include the following information about yourself. Feel free to add any pictures and links you think would make the blogs more presentable.
-
--   Where are you from?
--   What's your current academic year?
--   What degrees are you studying? Why did you choose your degrees?
--   What are your plans with your degree(s)?
--   Why do you care about data science?
--   Do you have any prior experience with data science?
--   What kinds of extracurricular activities / hobbies do you care about?
--   Share an interesting fact/story about yourself. What do you want your peers to know about you?
-
-It's also important that you develop some personal learning objectives for your time in DSPG. The following questions below are designed to help you develop some. After thinking through them, include your answers within the blog so that we can revisit these at the end of the program.
-
--   What skills do you value and appreciate about yourself?
--   List some skills in data science that you feel you do well.
--   List at least three skills you would like to learn or develop during the DSPG program.
--   Why are you pursuing these skills? Why do they matter to you?
--   How do you hope to improve these skills?
-
-
 ### Some skills I value about myself
 
 - Tenacity
@@ -87,9 +46,3 @@ It's also important that you develop some personal learning objectives for your 
 - Effective Communication: To better present data-driven insights to non-technical stakeholders.
 - Big Data Handling: As data scales, I want to be adept at managing and extracting value from vast datasets.
 
-## Before Submitting Your Assignment
-
--   Please update everything except the `categories: [Introduction]` in the YAML metadata section of your `NAME_Introductions.qmd` file.
--   Replace the `NAME` section of the `NAME_Introductions.qmd` file with your first name.
--   If you are including any images, place them in the `imgs\` folder and follow the guidelines discussed in the [Blog Writing Guidelines post](add%20link) for adding images.
--   Render the blog post locally on your device to make sure that it can render correctly. If you are in RStudio, you can use the Render icon or hit `Ctrl+Shift+K` on Windows and `Shift-Command-K` on Mac.
