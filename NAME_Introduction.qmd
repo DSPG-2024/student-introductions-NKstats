@@ -1,42 +1,65 @@
 ---
-title: "NAME's Introduction"
-author: "NAME"
-date: "2024-02-05"
+title: "SOLOMON's Introduction"
+author: "Solomon Eshun"
+date: "2024-05-17"
 categories: [Introduction]
 ---
 
-Write your answers to the questions here. Don't forget to update the metadata information above. Look through the [Markdown Guide](https://quarto.org/docs/authoring/markdown-basics.html) to format your text the way that you want it to be rendered.
+<br>
 
-![A picture you want to link here](imgs/The_Image.jpg)
+<style>
+.circle-img {
+  border-radius: 50%; /* Create circular corners */
+  width: 380px; /* Specify the width */
+  height: 360px; /* Specify the height */
+  object-fit: cover; /* Ensures the image covers the area without stretching */
+}
+</style>
 
-## Assignment Objectives
+![](imgs/self1.JPG){.circle-img}
 
-For your first submission, you are asked to submit an introductory blog of yourself to present to your fellow DSPG members. Note that these blogs will be hosted on the DSPG 2024 webpage for public viewing so that anyone interested in the program (future participants, clients, recruiters) may also learn about you. The objective is to use these blogs as a way to demonstrate your learning and work progress by documenting your accomplishments throughout the program.
+<br>
 
-## What to Include in This Blog
+Hi! My name is Solomon Eshun. You can call me Solomon (he/him/his). I am from Ghana, West Africa, and I’m pursuing a PhD in Applied Mathematics at Iowa State University (as of Spring 2024).
 
-As you prepare your introductions please make sure to include the following information about yourself. Feel free to add any pictures and links you think would make the blogs more presentable.
+### Research Interests
 
--   Where are you from?
--   What's your current academic year?
--   What degrees are you studying? Why did you choose your degrees?
--   What are your plans with your degree(s)?
--   Why do you care about data science?
--   Do you have any prior experience with data science?
--   What kinds of extracurricular activities / hobbies do you care about?
--   Share an interesting fact/story about yourself. What do you want your peers to know about you?
+- Causal Inference
+- Infectious Disease
+- Data Integration
 
-It's also important that you develop some personal learning objectives for your time in DSPG. The following questions below are designed to help you develop some. After thinking through them, include your answers within the blog so that we can revisit these at the end of the program.
+### Education
 
--   What skills do you value and appreciate about yourself?
--   List some skills in data science that you feel you do well.
--   List at least three skills you would like to learn or develop during the DSPG program.
--   Why are you pursuing these skills? Why do they matter to you?
--   How do you hope to improve these skills?
+- PhD Applied Mathematics, Iowa State University (08/2023 - 05/2024)
+- MSc Applied Stats. & Data Science, University of Texas Rio Grande Valley (UTRGV) (08/2021 - 05/2023)
+- BSc Mathematics, University of Mines and Technology (UMaT), Ghana (09/2016 - 08/2020)
 
-## Before Submitting Your Assignment
 
--   Please update everything except the `categories: [Introduction]` in the YAML metadata section of your `NAME_Introductions.qmd` file.
--   Replace the `NAME` section of the `NAME_Introductions.qmd` file with your first name.
--   If you are including any images, place them in the `imgs\` folder and follow the guidelines discussed in the [Blog Writing Guidelines post](add%20link) for adding images.
--   Render the blog post locally on your device to make sure that it can render correctly. If you are in RStudio, you can use the Render icon or hit `Ctrl+Shift+K` on Windows and `Shift-Command-K` on Mac.
+### Experience
+
+- Graduate Fellow, Data Science for the Public Good, Iowa State (05/2024 - Present)
+- Graduate Teaching Assistant, Department of Mathematics, Iowa State (08/2023 - 05/2023)
+- Sustainability Research Fellow, Office for Sustainability, UTRGV (08/2022 - 05/2023)
+- Graduate Teaching Assistant, School of Math. & Stats. Sciences, UTRGV (08/2021 - 05/2023)
+- Computational Science Intern, Los Alamos National Lab, Los Alamos NM (05 - 08/2022)
+- Teaching Assistant, Department of Mathematical Sciences, UMaT (09/2020 - 08/2021)
+- Data Production Intern, Ghana Statistical Service, Accra (05 - 08/2019)
+
+
+### Something interesting about myself, and what I hope to learn
+
+I take pride in my strong analytical and computational skills, tenacity, and dedication to continuous improvement. As I embark on the DSPG program, I seek to improve my leadership and mentoring capabilities, alongside acquiring new technical expertise. An important goal for me is to refine my communication skills to effectively convey data-driven insights to non-technical stakeholders. Additionally, I aim to master the management and extraction of value from extensive real-world datasets, leveraging these skills to make impactful decisions and contributions.
+
+In my leisure time, I enjoy listening to music, watching soccer games and playing video games.
+
+
+### Why I Care about Data Science
+
+I remember the moment I became interested in advanced research in Data Science. It was during my master's research, where I evaluated the effect of sodium-glucose co-transporter-2 (SGLT2) inhibitors on chronic kidney disease (CKD). I used propensity score matching to address differences in patient characteristics that might influence SGLT2 prescription. Additionally, I utilized machine learning models to predict CKD cases. Since the dataset was imbalanced, I applied balanced bagging with bootstrapping and synthetic minority oversampling to balance the distribution of CKD and non-CKD cases in the training data. This aimed to facilitate improved learning on the training dataset and enhance predictions on the testing data. The analysis revealed that individuals taking SGLT2 had fewer CKD cases than those who did not, highlighting the protective effect of SGLT2 on CKD. This shows the potential of statistics and data science in extracting meaningful insights from healthcare data.
+
+However, amidst this revelation, a significant issue surfaced - the absence of reliable data for marginalized populations, resulting in disproportionately worse health outcomes. Since then, my focus evolved from merely using models to make predictions to understanding the "why" and "what-if" behind those predictions. I realized that relying solely on supervised models was insufficient for this purpose, prompting me to develop methods that could integrate machine learning and causal approaches to address and explain predictions in imbalanced datasets.
+
+![[Figure Reference (Causality for Machine Learning)](https://ff13.fastforwardlabs.com/)](imgs/whatif.png)  
+
+As a consequence, I aim to leverage machine learning with causal methods to understand the influence of policies and interventions on diseases outcomes across various data sources. I seek to move from prediction-based models to learning independent causal models in areas like transfer and meta-learning. This approach will aid in integrating diverse healthcare datasets, often compounded by heterogeneous patient characteristics and medical protocols, ensuring the generalizability of my findings against external datasets. Additionally, I aim to create models capable of scaling up datasets to better reflect the diversity of the population. My goal is to enhance model interpretability through counterfactual reasoning and mitigate algorithmic biases for fair and equitable outcomes, ensuring the reliability of healthcare research across different demographics.
+
